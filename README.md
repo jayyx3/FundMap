@@ -125,8 +125,6 @@ Jay Joshi
 
 Email: joshijayy421@gmail.com
 
-Phone: +91 8875549960
-
 LinkedIn: https://www.linkedin.com/in/jay-joshi-75b75124b/
 
 GitHub: https://github.com/jayyx3
