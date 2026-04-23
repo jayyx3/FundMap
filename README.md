@@ -1,4 +1,4 @@
-# FundMap: Indian Startup Funding Analysis
+# FundMap: Indian Startup Funding Analysis 
 
 End-to-end data analyst portfolio project using Python, SQL, Jupyter, and Power BI.
 
